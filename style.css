@@ -1,0 +1,108 @@
+h1
+{
+	color: white
+}
+
+body 
+{
+	background-color: #404040
+}
+
+h2
+{
+	color: white
+}
+
+#Carte
+
+{
+
+ width: 800px;
+
+margin:0 auto;
+
+background-color: #404040;
+
+text-align: center;
+
+align-content: center;
+
+}	
+
+p
+{
+	color: white
+}
+
+body 
+{
+	color: white
+}
+
+a
+{
+	color: green;
+}
+
+.Models-central {
+	width: 700px 
+}
+
+.Models-central{
+	width: 700px
+}
+
+ul
+{
+	background-color: DimGray
+}
+
+.CCRP{
+	background-color: RebeccaPurple
+}
+
+.Liens{
+	color: purple 
+}
+
+.menu_bar{
+    background-color: purple;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+
+.Titres{
+	background-image: url(Models/central.jpg); 
+}
+
+.Fin{
+	background-color: white
+}
+
+
+main {
+    background-color: rgb(191, 10, 255);
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%
+}
+
+.menu_bar ul {
+	list-style: none;
+	display: flex;
+}
+
+.menu_bar ul li a {
+	color: var(--color-white);
+	text-decoration: none;
+	font-size: 20px
+}
+
+
